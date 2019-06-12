@@ -1,3 +1,7 @@
+# asymptotes AL-4 encoder controller firmware
+
+![the AL-4](https://user-images.githubusercontent.com/631757/59353024-fa076c00-8d19-11e9-9eea-aad74ba50fa0.JPG)
+
 | pin | use | use | pin |
 |-----|-----|-----|-----|
 | D1  |     |     | F4  |
